@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
+    "61557780285734",
     ""
   ],
   "whiteListMode": {
@@ -25,11 +25,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Cliff Vincent",
-  "AGE": "18",
+  "OWNER": "Frank kaumba",
+  "AGE": "17",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
+  "nickNameBot": " PRIME ELITE🇲🇼",
+  "FACEBOOK":"https://www.facebook.com/efkidtrapgamer",
   "prefix": "✓",
   "database": {
     "type": "sqlite",
