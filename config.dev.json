@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": " PRIME ELITE🇲🇼",
   "FACEBOOK":"https://www.facebook.com/efkidtrapgamer",
-  "prefix": "✓",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
